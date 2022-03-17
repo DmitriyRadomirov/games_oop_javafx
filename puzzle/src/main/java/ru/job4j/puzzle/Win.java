@@ -9,7 +9,6 @@ public class Win {
                 break;
             }
         }
-
         return rsl;
     }
 
@@ -22,8 +21,6 @@ public class Win {
 
                 }
             }
-
-
         return rsl;
     }
 
@@ -38,5 +35,5 @@ public class Win {
             }
         }
             return rsl;
-        }
     }
+}
